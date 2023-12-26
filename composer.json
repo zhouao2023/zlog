@@ -8,6 +8,6 @@
             "zhousongyu\\zlog\\": "src/"
         }
     },
-    "minimum-stability": "releases",
+    "minimum-stability": "dev",
     "license": "MIT"
 }
