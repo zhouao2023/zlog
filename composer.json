@@ -1,0 +1,12 @@
+{
+    "name": "zhou/zlog",
+    "require": {
+        "php": "8.0.26"
+    },
+    "autoload": {
+        "psr-4": {
+            "Test\\": "src/"
+        }
+    },
+    "license": "MIT"
+}
